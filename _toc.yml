@@ -3,7 +3,11 @@
 
 format: jb-book
 root: welcome 
-  #chapters:
-  #- file: docs/intro_to_python  
+chapters:
+- file: docs/RQ  
+- file: docs/background  
+- file: docs/data  
+- file: docs/structure  
+- file: docs/references  
   #sections:
     #  - file: docs/nb_python_exercises

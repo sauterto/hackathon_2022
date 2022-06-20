@@ -1,12 +1,13 @@
 # Welcome to the Hackathon 
 
-The following learning materials are part of the lecture Climate Modelling and
-Data Analysis and are intended to deepen the learned contents and to apply them
-to real-world cases. The materials consist of exercises as well as a variety of
-examples. The materials assume a basic knowledge of Python and the use of the
-Jupyter environment. 
+In this event, we will focus on a clearly defined scientific topic for the next
+two days and try to write a short manuscript. A hackathon is an event where
+interdisciplinary scientists from different fields of research try to find
+innovative solutions for specific problems that are difficult to solve without
+the diverse expertise. Here we want to take up a research question that can be
+answered without time-consuming numerical simulations and can be efficiently
+solved in teamwork. 
 
-The materials consist of several lessons covering specific elements of the course. 
 
 ```{tableofcontents}
 ```
